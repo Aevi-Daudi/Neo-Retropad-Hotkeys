@@ -29,7 +29,7 @@ Menu button next to 'start'
 
 INSTALLATION:
 
-Download Rlease
+Download Release
 
 Add contents to a new folder in your Retroarch folder on your Android. I called mine 'Overlays'
 
