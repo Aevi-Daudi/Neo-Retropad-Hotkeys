@@ -3,7 +3,7 @@ Edited version of Neo-retropad using Retropad Editor to add save state buttons t
 [Hotkey readme.txt](https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/files/14324468/Hotkey.readme.txt)
 ____________________________________
 
-Hotkeys for Neo Retropad
+Hotkeys for RetroArch Neo Retropad
 ____________________________________
 
 Hi there!
@@ -28,6 +28,8 @@ Menu button next to 'start'
 ------------------------------------
 
 INSTALLATION:
+
+Download Rlease
 
 Add contents to a new folder in your Retroarch folder on your Android. I called mine 'Overlays'
 
