@@ -37,9 +37,9 @@ UPDATED:
 
 INSTALLATION:
 
--1 Add contents to a new folder in your Retroarch folder on your Android. I called mine 'Overlays'
--2 In Retroarch, go to Settings>On-Screen Display>On-Screen Overlay, tap 'Overlay Preset' and navigate back up through the parent directories until you find the folder where you saved the new overlay.
--3 Tap 'neo-retropad-hotkeys.cfg'
+- 1 Add contents to a new folder in your Retroarch folder on your Android. I called mine 'Overlays'
+- 2 In Retroarch, go to Settings>On-Screen Display>On-Screen Overlay, tap 'Overlay Preset' and navigate back up through the parent directories until you find the folder where you saved the new overlay.
+- 3 Tap 'neo-retropad-hotkeys.cfg'
 
 ------------------------------------
 
