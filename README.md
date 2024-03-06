@@ -10,6 +10,9 @@ This is an edit to the Neo-Retropad.cfg using the Retropad Editor to add extra c
 ------------------------------------
 
 <img width="512" alt="neo-retropad-hotkeys-landscape v2" src="https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/assets/160430397/3e9be5f5-f5a3-4adb-a120-125c66bcc8a9">
+
+------------------------------------
+
 <img width="236" alt="neo-retropad-hotkeys-portrait v2" src="https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/assets/160430397/44a10a32-abc1-4dd5-85e0-ac85067a6abb">
 
 ------------------------------------
