@@ -20,12 +20,12 @@ Download the latest release on the right
 ------------------------------------
 
 ADDED:
-- Save state ![hotkey_savestate_save](https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/assets/160430397/64b29066-bad2-452b-9f95-36ea0df19124)
-- Load save state ![hotkey_savestate_load](https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/assets/160430397/304f164e-e3be-4290-ba12-df5fcf740c73)
-- next save state slot ![hotkey_savestate_next](https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/assets/160430397/4ea4f99c-6f6e-442a-b17b-a5c97cc52345)
-- previous save state slot ![hotkey_savestate_previous](https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/assets/160430397/a3905221-bd7e-408d-bf01-a3d79b3fbfa2)
-- Landscape button ![hotkey_rotate_landscape](https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/assets/160430397/1e81dc20-480f-4b32-b50b-53c48a7a9297)
-- Portrait button ![hotkey_rotate_portrait](https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/assets/160430397/2c434b99-8bd7-4d0b-94cb-848d7fbd33b1)
+- Save state
+- Load save state
+- next save state slot
+- previous save state slot
+- Landscape button
+- Portrait button
 
 UPDATED:
 - Rearranged icons using Retropad Editor
