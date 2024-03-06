@@ -20,15 +20,15 @@ Download the latest release on the right
 ------------------------------------
 
 ADDED:
-- Save save state
-- Load save state
-- next save state slot
-- previous save state slot
-- Landscape button (previously invisible)
-- Portrait button (previously invisible)
+- Save state (hotkey_savestate_save.png)
+- Load save state (hotkey_savestate_load.png)
+- next save state slot (hotkey_savestate_next.png)
+- previous save state slot (hotkey_savestate_previous.png)
+- Landscape button (previously invisible) (hotkey_rotate_landscape.png)
+- Portrait button (previously invisible) (hotkey_rotate_portrait.png)
 
 UPDATED:
-Rearranged icons
+Rearranged icons using Retropad Editor
 
 ------------------------------------
 
@@ -37,6 +37,8 @@ INSTALLATION:
 Add contents to a new folder in your Retroarch folder on your Android. I called mine 'Overlays'
 
 In Retroarch, go to Settings>On-Screen Display>On-Screen Overlay, tap 'Overlay Preset' and navigate back up through the parent directories until you find the folder where you saved the new overlay.
+
+Tap 'neo-retropad-hotkeys.cfg'
 
 ------------------------------------
 
