@@ -7,6 +7,8 @@ Hi there!
 
 This is an edit to the Neo-Retropad.cfg using the Retropad Editor to add extra custom buttons for save/load save state, next/previous save state, and portrait/landscape.
 
+Download the latest release on the right
+
 ------------------------------------
 
 <img width="512" alt="neo-retropad-hotkeys-landscape v2" src="https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/assets/160430397/3e9be5f5-f5a3-4adb-a120-125c66bcc8a9">
