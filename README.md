@@ -45,8 +45,8 @@ INSTALLATION:
 
 SOURCES:
 
-- [Neo-Retropad](https://github.com/libretro/common-overlays/tree/master/gamepads/neo-retropad) (Assets)
-- [Retropad Editor](https://forums.libretro.com/t/retropad-editor-create-and-edit-onscreen-gamepads/38331/10) (Modified the original neo-retropad.cfg)
+- [Neo-Retropad](https://github.com/libretro/common-overlays/tree/master/gamepads/neo-retropad) (original assets)
+- [Retropad Editor](https://forums.libretro.com/t/retropad-editor-create-and-edit-onscreen-gamepads/38331/10) (used to edit the original neo-retropad.cfg)
 - [Photopea](https://www.photopea.com/) (used Modern Pictogram and Play-Bold fonts on top of a modified Neo-Retropad blank icon to mimic the same look and style)
 
 ------------------------------------
