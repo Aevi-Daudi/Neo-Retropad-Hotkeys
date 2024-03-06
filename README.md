@@ -9,6 +9,8 @@ I play GBC, NES, and GBA on my android and really love the default Neo-Retropad 
 
 [Download the latest release](https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/releases/download/v2.0/Neo.Retropad.Hotkeys.v2.rar)
 
+Feel free to edit in Retropad Editor to your preferences as well!
+
 ------------------------------------
 
 <img width="512" alt="neo-retropad-hotkeys-landscape v2" src="https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/assets/160430397/3e9be5f5-f5a3-4adb-a120-125c66bcc8a9">
