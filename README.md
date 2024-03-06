@@ -5,9 +5,9 @@ ____________________________________
 
 Hi there!
 
-This is an edit to the Neo-Retropad.cfg using the Retropad Editor to add extra custom buttons for save/load save state, next/previous save state, and portrait/landscape.
+I play GBC, NES, and GBA on my android and really love the default Neo-Retropad overlay - I just love how simple and unobtrusive it is! So this is just a small update using the Retropad Editor to add extra custom buttons for save/load save state, next/previous save state, and portrait/landscape.
 
-Download the latest release on the right
+[Download the latest release](https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/releases/download/v2.0/Neo.Retropad.Hotkeys.v2.rar)
 
 ------------------------------------
 
@@ -35,27 +35,17 @@ UPDATED:
 
 INSTALLATION:
 
-Add contents to a new folder in your Retroarch folder on your Android. I called mine 'Overlays'
-
-In Retroarch, go to Settings>On-Screen Display>On-Screen Overlay, tap 'Overlay Preset' and navigate back up through the parent directories until you find the folder where you saved the new overlay.
-
-Tap 'neo-retropad-hotkeys.cfg'
+-1 Add contents to a new folder in your Retroarch folder on your Android. I called mine 'Overlays'
+-2 In Retroarch, go to Settings>On-Screen Display>On-Screen Overlay, tap 'Overlay Preset' and navigate back up through the parent directories until you find the folder where you saved the new overlay.
+-3 Tap 'neo-retropad-hotkeys.cfg'
 
 ------------------------------------
 
 SOURCES:
 
-Neo-Retropad
-https://github.com/libretro/common-overlays/tree/master/gamepads/neo-retropad
-(Assets)
-
-Retropad Editor:
-https://forums.libretro.com/t/retropad-editor-create-and-edit-onscreen-gamepads/38331/10
-(Modified the original neo-retropad.cfg)
-
-Photopea
-https://www.photopea.com/
-(used Modern Pictogram and Play-Bold fonts on top of a modified Neo-Retropad blank icon to mimic the same look and style)
+- [Neo-Retropad](https://github.com/libretro/common-overlays/tree/master/gamepads/neo-retropad) (Assets)
+- [Retropad Editor](https://forums.libretro.com/t/retropad-editor-create-and-edit-onscreen-gamepads/38331/10) (Modified the original neo-retropad.cfg)
+- [Photopea](https://www.photopea.com/) (used Modern Pictogram and Play-Bold fonts on top of a modified Neo-Retropad blank icon to mimic the same look and style)
 
 ------------------------------------
 Aevi Daudi
