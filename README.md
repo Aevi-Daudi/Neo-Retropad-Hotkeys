@@ -1,35 +1,29 @@
-# Hotkeys-Neo-Retropad
-Edited version of Neo-retropad using Retropad Editor to add save state buttons to cfg
-[Hotkey readme.txt](https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/files/14324468/Hotkey.readme.txt)
 ____________________________________
 
-Hotkeys for RetroArch Neo Retropad
+Hotkeys for Neo Retropad
 ____________________________________
 
 Hi there!
 
-This is an edit to Neo-Retropad using the Retropad Editor to add buttons for save states
+This is an edit to Neo-Retropad using the Retropad Editor to add extra buttons for save states
 
 ------------------------------------
 
 ADDED:
-
 Save save state
 Load save state
 next save state slot
 previous save state slot
 
-(Also added Landscape and Portrait buttons but they don't seem to work)
+UPDATED:
+Landscape button
+Portrait button
 
-MOVED:
-
-Menu button next to 'start'
+Rearranged icons
 
 ------------------------------------
 
 INSTALLATION:
-
-Download Release
 
 Add contents to a new folder in your Retroarch folder on your Android. I called mine 'Overlays'
 
@@ -39,13 +33,17 @@ In Retroarch, go to Settings>On-Screen Display>On-Screen Overlay, tap 'Overlay P
 
 SOURCES:
 
-Neo-Retropad:
+Neo-Retropad
 https://github.com/libretro/common-overlays/tree/master/gamepads/neo-retropad
+(Assets)
 
 Retropad Editor:
 https://forums.libretro.com/t/retropad-editor-create-and-edit-onscreen-gamepads/38331/10
+(Modified the original neo-retropad.cfg)
 
-Photopea to modify the original Neo-Retropad buttons to try to maintain the same style
+Photopea
+https://www.photopea.com/
+(Modern Pictogram and Play-Bold fonts on top of a modified Neo-Retropad blank icon to mimic the same look and style)
 
 ------------------------------------
 Aevi Daudi
