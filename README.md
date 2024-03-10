@@ -9,37 +9,52 @@ I play GBC, NES, and GBA on my android and really love the default Neo-Retropad 
 
 [Download the latest release](https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/releases/download/v2.0/Neo.Retropad.Hotkeys.v2.rar)
 
+There's now two versions for your choice of save sate buttons on the top or bottom of the neo-retropad overlay!
+
 Feel free to edit in Retropad Editor to your preferences as well!
 
 ------------------------------------
 
-<img width="512" alt="neo-retropad-hotkeys-landscape v2" src="https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/assets/160430397/3e9be5f5-f5a3-4adb-a120-125c66bcc8a9">
+<img width="512" alt="neo-retropad-hotkeys-top GBA landscape" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/6be49e0b-9255-4d29-a025-56614c323457">
 
 ------------------------------------
 
-<img width="236" alt="neo-retropad-hotkeys-portrait v2" src="https://github.com/Aevi-Daudi/Hotkeys-Neo-Retropad/assets/160430397/44a10a32-abc1-4dd5-85e0-ac85067a6abb">
+<img width="512" alt="neo-retropad-hotkeys-bottom GBA landscape" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/1d7c560b-ce31-44b3-8d79-2e76d267b0a0">
 
 ------------------------------------
 
-ADDED:
-- Save state
-- Load save state
-- next save state slot
-- previous save state slot
-- Landscape button
-- Portrait button
+<img width="236" alt="neo-retropad-hotkeys-top GBA portrait" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/2500ea2a-00b1-4671-aade-65e99ae3ebb9">
 
-UPDATED:
-- Rearranged icons using Retropad Editor
-- made landscape/portrait buttons visible
+<img width="236" alt="neo-retropad-hotkeys-top GBC portrait" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/4ca7ca94-e589-401a-8c0b-874169c91d58">
+
+<img width="236" alt="neo-retropad-hotkeys-bottom GBA portrait" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/e1fc8d66-d917-4aa0-b3ed-3ddc5bfff151">
+
+------------------------------------
+
+CHANGES:
+- added Save state button
+- added Load state button
+- added Next save state button
+- added Previous save state button
+- added Landscape button
+- added Portrait button
+- rearranged buttons
+
+UPDATE V3:
+- renamed to hotkeys-bottom
+- moved Retroarch menu to bottom in bottom version
+- added new hotkeys-top version with save state buttons on top
+- shifted hotkeys-top portrait buttons down to accommodate save state buttons on top
 
 ------------------------------------
 
 INSTALLATION:
 
-- Add contents to a new folder in your Retroarch folder on your Android. I called mine 'Overlays'
-- In Retroarch, go to Settings>On-Screen Display>On-Screen Overlay, tap 'Overlay Preset' and navigate back up through the parent directories until you find the folder where you saved the new overlay.
-- Tap 'neo-retropad-hotkeys.cfg'
+1) Add contents to a new folder in your Retroarch folder on your Android. I called mine 'Overlays'
+
+2) In Retroarch, go to Settings>On-Screen Display>On-Screen Overlay, tap 'Overlay Preset' and navigate back up through the parent directories until you find the folder where you saved the new overlay.
+
+3) Tap on either 'neo-retropad-hotkeys-bottom' or 'neo-retropad-hotkeys-top'
 
 ------------------------------------
 
