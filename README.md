@@ -3,7 +3,7 @@ ____________________________________
 Save State Hotkeys for Neo Retropad
 ____________________________________
 
-Hi there!
+**Hi there!** 👋
 
 I play GBC, NES, and GBA on my android and really love the default Neo-Retropad overlay - I like how simple and unobtrusive it is! So this is just a small update using the Retropad Editor to add extra custom buttons for save/load save state, next/previous save state, and portrait/landscape.
 
@@ -31,7 +31,7 @@ Feel free to edit in Retropad Editor to your preferences as well!
 
 ------------------------------------
 
-CHANGES:
+**CHANGES:**
 - added Save state button
 - added Load state button
 - added Next save state button
@@ -40,7 +40,7 @@ CHANGES:
 - added Portrait button
 - rearranged buttons
 
-UPDATE V3:
+**UPDATE V3:**
 - renamed to hotkeys-bottom
 - moved Retroarch menu to bottom in bottom version
 - added new hotkeys-top version with save state buttons on top
@@ -48,7 +48,7 @@ UPDATE V3:
 
 ------------------------------------
 
-INSTALLATION:
+**INSTALLATION:**
 
 1) Add contents to a new folder in your Retroarch folder on your Android. I called mine 'Overlays'
 
@@ -58,7 +58,16 @@ INSTALLATION:
 
 ------------------------------------
 
-SOURCES:
+**OPTIONS:**
+
+There are 2 Overlay choices (not including the original):
+
+- neo-retropad-hotkeys-bottom: my first version with save state buttons on the bottom
+- neo-retropad-hotkeys-top: updated version with save state buttons on top
+
+------------------------------------
+
+**SOURCES:**
 
 - [Neo-Retropad](https://github.com/libretro/common-overlays/tree/master/gamepads/neo-retropad) (original assets)
 - [Retropad Editor](https://forums.libretro.com/t/retropad-editor-create-and-edit-onscreen-gamepads/38331/10) (used to edit the original neo-retropad.cfg)
