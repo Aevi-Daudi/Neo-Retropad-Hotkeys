@@ -7,7 +7,7 @@ ____________________________________
 
 I play GBC, NES, and GBA on my android and really love the default Neo-Retropad overlay - I like how simple and unobtrusive it is! So this is just a small update using the Retropad Editor to add extra custom buttons for save/load save state, next/previous save state, and portrait/landscape.
 
-[Download Neo-Retropad-Hotkeys v3.0 Here](https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/releases/download/V3.0/Neo.Retropad.Hotkeys.v3.rar)
+[Download Neo-Retropad-Hotkeys v3.0 Here](https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/releases/download/v4.0/Neo.Retropad.Hotkeys.v4.rar)
 
 There's now two versions for your choice of save sate buttons on the top or bottom of the neo-retropad overlay!
 
@@ -25,7 +25,7 @@ Feel free to edit in Retropad Editor to your preferences as well!
 
 <img width="236" alt="hotkey_top_gba_portrait" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/785d2127-3699-48d7-9241-ac05cd327a70">
 
-<img width="185" alt="hotkey_top_gbc_portrait" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/ac4535ff-bf68-4196-820b-a5117343721c">
+<img width="236" alt="hotkey_top_gbc_portrait" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/6d170d1f-b69f-484f-a121-dd0fd00a7b5c">
 
 <img width="236" alt="neo-retropad-hotkeys-bottom GBA portrait" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/e1fc8d66-d917-4aa0-b3ed-3ddc5bfff151">
 
