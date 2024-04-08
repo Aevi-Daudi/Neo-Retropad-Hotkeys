@@ -15,7 +15,7 @@ Feel free to edit in Retropad Editor to your preferences as well!
 
 ------------------------------------
 
-<img width="512" alt="neo-retropad-hotkeys-top GBA landscape" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/6be49e0b-9255-4d29-a025-56614c323457">
+<img width="512" alt="hotkey_top_gba_landscape" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/a9d668cb-5463-4320-ae58-ecafb021f8de">
 
 ------------------------------------
 
@@ -23,29 +23,29 @@ Feel free to edit in Retropad Editor to your preferences as well!
 
 ------------------------------------
 
-<img width="236" alt="neo-retropad-hotkeys-top GBA portrait" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/2500ea2a-00b1-4671-aade-65e99ae3ebb9">
+<img width="236" alt="hotkey_top_gba_portrait" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/785d2127-3699-48d7-9241-ac05cd327a70">
 
-<img width="236" alt="neo-retropad-hotkeys-top GBC portrait" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/4ca7ca94-e589-401a-8c0b-874169c91d58">
+<img width="185" alt="hotkey_top_gbc_portrait" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/ac4535ff-bf68-4196-820b-a5117343721c">
 
 <img width="236" alt="neo-retropad-hotkeys-bottom GBA portrait" src="https://github.com/Aevi-Daudi/Neo-Retropad-Hotkeys/assets/160430397/e1fc8d66-d917-4aa0-b3ed-3ddc5bfff151">
 
 ------------------------------------
 
-**CHANGES:**
+**CHANGES from Original:**
 - added Save state button
 - added Load state button
 - added Next save state button
 - added Previous save state button
-- added Landscape button
-- added Portrait button
+- added Landscape button (previously invisible)
+- added Portrait button (previously invisible)
 - rearranged buttons
+- added rewind button
 
-**UPDATE V3:**
-- renamed to hotkeys-bottom
-- moved Retroarch menu to bottom in bottom version
-- added new hotkeys-top version with save state buttons on top
-- shifted hotkeys-top portrait buttons down to accommodate save state buttons on top
-
+**UPDATE V4:**
+- added Rewind
+- moved Retroarch menu to middle
+- added 'nomedia' file so icons won't appear in Android's Gallery
+ 
 ------------------------------------
 
 **INSTALLATION:**
@@ -62,8 +62,8 @@ Feel free to edit in Retropad Editor to your preferences as well!
 
 There are 2 Overlay choices (not including the original):
 
-- neo-retropad-hotkeys-bottom: my first version with save state buttons on the bottom
-- neo-retropad-hotkeys-top: updated version with save state buttons on top
+- neo-retropad-hotkeys-bottom: my first version with save state buttons on the bottom (no longer updating)
+- neo-retropad-hotkeys-top: updated version with save state buttons on top (current version)
 
 ------------------------------------
 
